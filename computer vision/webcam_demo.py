@@ -18,4 +18,4 @@ def load_video(camera_index):
 if __name__ == "__main__":
     cam_idx = 0
     load_video(cam_idx)
-    "aman"
+    
