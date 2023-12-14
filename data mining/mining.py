@@ -46,3 +46,4 @@ if len(all_results) > 0:
 # df = pd.DataFrame(all_results)
 # df.to_csv('flipkart.csv', index=False)
 
+print('👍 Done')
